@@ -4,7 +4,7 @@
 🚀 I’m currently diving deep into advanced techniques in TensorFlow and Spark MLlib.
 🤝 I’m looking to collaborate on innovative data projects and open-source contributions.
 📫 How to reach me: ghemmoursamy9@gmail.com or LinkedIn : https://www.linkedin.com/in/ghemmour-samy-609158202/
-🎲 Fun fact: I likr playing chess and have a 1400 Elo rating!
+🎲 Fun fact: I like playing chess and have a 1400 Elo rating!
 
 <!---
 Samy-gmr/Samy-gmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
